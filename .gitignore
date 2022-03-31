@@ -31,5 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
-
-.mvn/**
+bin/
+gen/
+.mvn
+mvnw*
+.DS_Store
